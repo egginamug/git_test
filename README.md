@@ -1,1 +1,1 @@
-# git_test
+This is egginamug's first git project
